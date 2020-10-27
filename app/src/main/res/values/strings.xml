@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="square_root_symbol">\u221a</string>
+    <string name="up_arrow">\u2191</string>
+</resources>
